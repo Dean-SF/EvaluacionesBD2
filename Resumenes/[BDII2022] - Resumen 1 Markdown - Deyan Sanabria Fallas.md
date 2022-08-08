@@ -17,7 +17,7 @@
 
 <p style="text-align:center;font-size:18px"> <br>Profesor: Gerardo Nereo Campos Araya </p>
 
-<p style="text-align:center;font-size:18px"> <br>Fecha de Entrega: 09/04/2022 </p>
+<p style="text-align:center;font-size:18px"> <br>Fecha de Entrega: 09/08/2022 </p>
 
 <p style="text-align:center;font-size:18px"> <br>Segundo Semestre 2022 </p>
 
