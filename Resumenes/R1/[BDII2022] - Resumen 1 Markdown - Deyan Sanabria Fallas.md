@@ -1,4 +1,4 @@
-<p style="text-align:center;height:150px"> <br><br><br><br><br><img src="logo-tec.png" width= "250" class="center"> </p>
+<p style="text-align:center;height:150px"> <br><br><br><br><br><img src="../logo-TEC/logo-tec.png" width= "250" class="center"> </p>
 
 <p style="text-align:center;font-size:18px"> <br><br><br>Instituto Tecnologico de Costa Rica </p>
 
